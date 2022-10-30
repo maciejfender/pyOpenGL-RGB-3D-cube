@@ -1,6 +1,6 @@
 # pyOpenGL-RGB-3D-cube
 
-##Installation
+## Installation
 
 Code was tested on Python 3.10.
 I suggest creating virtual env for this project and installing dependencies after activation.
